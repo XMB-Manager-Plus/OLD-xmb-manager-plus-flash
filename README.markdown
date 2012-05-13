@@ -5,7 +5,8 @@ XMB Manager Plus (XMBM+) Flash Mod is a application that allow the flash to sera
 
 It changes dev_flash xml and rco files so the xmb can read the XMB Manager Plus directory.
 
-Since this is a adaptation of Rebug Package Manager Installer all credits go to the Rebug Team.
+Since this is a adaptation of Rebug Package Manager Installer all credits go to the Rebug Team for the installer.
+And other credit go to the Team XMBM+ for modding and addapt RCO files 
 
 ## Team XMBM+
 
@@ -16,7 +17,7 @@ Since this is a adaptation of Rebug Package Manager Installer all credits go to 
 -  CloneD (themes, tester, videos)
 -  DeViL303 (coding, POC/WIP)
 -  ps3Hen (coding, 4.00 port, translator, batch toolkit)
--  XiorgON (tester, translator, coding, GUI tookit)
+-  XiorgON (tester, translator, coding, GUI tookit, flash modding)
 -  xlsound (images)
 -  wawryn (translator)
 
