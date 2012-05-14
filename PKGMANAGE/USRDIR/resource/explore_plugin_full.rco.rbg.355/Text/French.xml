@@ -899,8 +899,6 @@ Saisir un nom d'utilisateur différent.</Text>
 Voulez-vous vraiment continuer ?</Text>
 	<Text name="msg_error_character">Les caractères suivants ne peuvent être saisis :
 %1</Text>
-	<Text name="msg_tool_package_file"><![CDATA[★ Gestionnaire XMB de Fichier® v0.08]]></Text>
-	<Text name="msg_tool_package_file_info">Gérez tous vos Fichiers, Contenus Playstation®Network (SEN), Paquets etc.</Text>
 	<Text name="msg_tool_rebug_file"><![CDATA[★ Les Essentiels Rebug]]></Text>
 	<Text name="msg_tool_rebug_file_info">INSTALLER les outils essentiels pour bénéficier completement de l'expérience REBUG.</Text>
 	<Text name="msg_tool_psn_file"><![CDATA[★ Contenu PlayStation®Network (SEN)]]></Text>
@@ -920,13 +918,7 @@ Voulez-vous vraiment continuer ?</Text>
 	<Text name="msg_tool_og_delete_info">SUPPRIMER depuis l'emplacement racine de vos périphériques.</Text>
 	<Text name="msg_tool_no_package">Aucun paquet trouvé.</Text>
 	<Text name="msg_tool_no_psn_content">Aucun contenu PlayStation®Network (SEN) trouvé.</Text>
-	<Text name="msg_filemanager"><![CDATA[★ Gestionnaire XMB de Fichier ]]></Text>
-	<Text name="msg_filemanager_info">Gérez tous vos Fichiers, Contenus Playstation®Network (SEN), Homebrew Paquets etc.</Text>
-	<Text name="msg_filemanager_title"><![CDATA[★ Gestionnaire de fichier système PS3® ]]></Text>
-	<Text name="msg_filemanager_title_info">Parcourir et supprimer les fichiers(Access Lecture et Écriture requis)</Text>
-	<Text name="msg_vita_application_utility"><![CDATA[★ Outil Système d'application PS Vita*]]></Text>
 	<Text name="msg_applications_vita">Applications (PS Vita)</Text>
 	<Text name="msg_when_use_content_on_vita_hint">Si vous utilisez du contenu sur un système PS Vita, connectez la PS Vita avec un cable USB, et démarrez le [Gestionnaire de contenu] sur le système PS Vita.</Text>
 	<Text name="msg_remoteplay_explanation"><![CDATA[Utiliser un périphérique qui supporte le controle distance (comme une PS Vita ou une PSP™) pour opérer ce système sur le reseau. Allez à [Paramètres] > [Paramètres de lecture à distance] > [Enregistrer le périphérique] et enregistrez votre appareil.]]></Text>
-	<Text name="msg_vita_application_utility_info">*TEC : Un simple clône de la catégorie utilitaire des données de jeu pour le moment.</Text>
 </TextLang>

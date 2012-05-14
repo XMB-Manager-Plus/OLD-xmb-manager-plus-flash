@@ -230,5 +230,4 @@ Jos pelaat peliä, joka tukee Trophy-ominaisuutta ja keräät trophyjä, ne näk
 	<Text name="msg_psp_exclusive_install_ask">Tämä sisältö on tarkoitettu yksinomaan PSP™-järjestelmässä käytettäväksi.
 Haluatko asentaa sen nyt PSP™-järjestelmään?</Text>
 	<Text name="msg_version">Versio</Text>
-	<Text name="msg_tool_package_file"><![CDATA[★ XMB File Manager® v0.08]]></Text>
 </TextLang>

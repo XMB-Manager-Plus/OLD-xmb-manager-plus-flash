@@ -920,5 +920,4 @@ Tem a certeza de que pretende continuar?</Text>
 	<Text name="msg_applications_vita">Applications (PS Vita)</Text>
 	<Text name="msg_when_use_content_on_vita_hint">If using the content on a PS Vita system, connect the PS Vita system using a USB cable, and then start [Content Manager] on the PS Vita system.</Text>
 	<Text name="msg_remoteplay_explanation"><![CDATA[Use a device that supports remote play (such as a PS Vita or a PSP™ system) to operate this system over a network. Go to [Settings] > [Remote Play Settings] > [Register Device] and register the remote play device.]]></Text>
-	<Text name="msg_vita_application_utility_info">*WIP : A simple clone of the Gamedata category for now.</Text>
 </TextLang>
