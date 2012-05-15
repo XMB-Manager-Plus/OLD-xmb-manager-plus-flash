@@ -33,3 +33,5 @@ The entire source in available for download in the git
 -  Git: https://github.com/XMB-Manager-Plus/xmb-manager-plus
 -  Git (Flash): https://github.com/XMB-Manager-Plus/xmb-manager-plus-flash
 -  Git (Builder Toolkit): https://github.com/XMB-Manager-Plus/xmb-manager-plus-builder-toolkit
+
+-  A Special Big Thanks to all the Team XMBM+ and the public because without you the project would never exist
