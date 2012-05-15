@@ -71,7 +71,7 @@
 				key="seg_gamedebug"
 				src="#seg_gamedebug"
 				/>
-			<Query class="type:x-xmb/folder-pixmap" key="xmb_app1" attr="xmb_app1" src="xmb://localhost/dev_hdd0/game/XMBMANPLS/USRDIR/game_main.xml#seg_xmb_hdd0_app"/>
+			<Query class="type:x-xmb/folder-pixmap" key="xmb_app1" attr="xmb_app1" src="xmb://localhost/dev_hdd0/game/APPTITLID/USRDIR/game_main.xml#seg_xmb_hdd0_app"/>
 			<!--
 			<Query class="type:x-xmb/folder-pixmap" key="xmb_app2" attr="xmb_app2" src="xmb://localhost/dev_usb000/PS3/XMB/game_main.xml#seg_xmb_usb0_app"/>
 			<Query class="type:x-xmb/folder-pixmap" key="xmb_app3" attr="xmb_app3" src="xmb://localhost/dev_usb001/PS3/XMB/game_main.xml#seg_xmb_usb1_app"/>
@@ -199,7 +199,7 @@
 				key="seg_gamedebug"
 				src="#seg_gamedebug"
 				/>
-			<Query class="type:x-xmb/folder-pixmap" key="xmb_app1" attr="xmb_app1" src="xmb://localhost/dev_hdd0/game/XMBMANPLS/USRDIR/game_main.xml#seg_xmb_hdd0_app"/>
+			<Query class="type:x-xmb/folder-pixmap" key="xmb_app1" attr="xmb_app1" src="xmb://localhost/dev_hdd0/game/APPTITLID/USRDIR/game_main.xml#seg_xmb_hdd0_app"/>
 			<!--
 			<Query class="type:x-xmb/folder-pixmap" key="xmb_app2" attr="xmb_app2" src="xmb://localhost/dev_usb000/PS3/XMB/game_main.xml#seg_xmb_usb0_app"/>
 			<Query class="type:x-xmb/folder-pixmap" key="xmb_app3" attr="xmb_app3" src="xmb://localhost/dev_usb001/PS3/XMB/game_main.xml#seg_xmb_usb1_app"/>
@@ -284,7 +284,7 @@
 				attr="seg_sdps3"
 				src="xmb://localhost/%flash/xmb/category_game.xml#seg_sdps3"
 				/>
-			<Query class="type:x-xmb/folder-pixmap" key="xmb_app1" attr="xmb_app1" src="xmb://localhost/dev_hdd0/game/XMBMANPLS/USRDIR/game_main.xml#seg_xmb_hdd0_app"/>
+			<Query class="type:x-xmb/folder-pixmap" key="xmb_app1" attr="xmb_app1" src="xmb://localhost/dev_hdd0/game/APPTITLID/USRDIR/game_main.xml#seg_xmb_hdd0_app"/>
 			<!--
 			<Query class="type:x-xmb/folder-pixmap" key="xmb_app2" attr="xmb_app2" src="xmb://localhost/dev_usb000/PS3/XMB/game_main.xml#seg_xmb_usb0_app"/>
 			<Query class="type:x-xmb/folder-pixmap" key="xmb_app3" attr="xmb_app3" src="xmb://localhost/dev_usb001/PS3/XMB/game_main.xml#seg_xmb_usb1_app"/>
